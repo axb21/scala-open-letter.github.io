@@ -367,7 +367,7 @@ Additional support:
 * Yufan Gong
 * Yumin Wong
 * Zach McCoy
-
+* Anthony Bucci
 
 ### Additional information
 
